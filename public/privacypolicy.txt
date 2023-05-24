@@ -1,0 +1,36 @@
+Privacy policy
+This policy describes which data we store related to you and how we use it in Group Planner (the Service and the App),
+
+What we store
+We need information about you and the way you use the Service to provide it and to improve it to achieve our mission. 
+- Content and user information. We store everything that you provide when you sign up and when you create or share media. This includes the content itself as well as its metadata or the way you use the App's features to modify it (by using filters, for example). 
+- Connections. We keep track of how you interact with other users, for example when you share content or when you join a group.
+- Device data. We collect information related to your device, such as the operating system and software version.
+
+How we use your data
+- User information. We use your username and email address to give you secure access to the App. We also use them to communicate with you when it is necessary, for example when you ask us for a password reset or when we update our policies.
+- Content. Our Al-based systems analyze your content in order to offer you new features and to improve your overall experience. We also scan the media you upload to the App to make sure it is compliant with our Terms of Use.
+- Connections. Understanding the way you interact with the App and with other users is key to provide a better experience. We interpret this data to come up with new features and fixes.
+- Device information. We keep track of the operating system and software version of your device to understand the platforms that our users use. This way we can optimize our software to work best with your system. Additionally, we use your device's unique identifier to provide an additional layer of security to your account so that you never lose access to it and to avoid data leaks.
+In short, we use your data to provide our Service, communicate with you, when necessary, secure your experience and to analyze your usage of the App to improve your experience.
+
+How your data is shared
+We do not share your information with third parties. Uploaded content is shared with other users within the Service when you explicitly ask us (for example, when you enter a group, all participants to that group may see your profile picture and name).
+Device information or analytics are never shared with anyone external to the company.
+
+GDPR compliance
+Under the EU's General Data Protection Regulation, you have the right to access, rectify, port and erase your data. This includes unsubscribing for our marketing communications and the right to object to our processing of your data where we are performing a task in the public interest or pursuing our legitimate interests. Data retention and account.
+
+Data retention and account deletion
+We store your data for as long as it is necessary to provide you with our Service. This means that data that is no longer relevant because of an update is deleted from our database. When you delete your account, all the data that you own is deleted, including:
+- Your email address and your personal details.
+- The groups you have created, and so all data related to that group.
+- Media within Group Planner that no one else has access to.
+When you delete your account or any of your media individually. All information is deleted forever and will not be recoverable.
+
+Law enforcement and legal requests
+We may access your data and share it with law enforcement or regulators in response to a legal request if:
+- We believe that the law requires us to do so. We have a strong belief in data privacy and will protect your information from being shared with third parties without your permission. However, if the law in your jurisdiction requires us to share it with authorities, and the request is in accordance with international standards, we have the right to do so.
+
+Changes to the Terms
+You will receive a notification when we change our Terms or the Data Policy so that you can review it before continuing using Group Planner.

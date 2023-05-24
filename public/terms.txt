@@ -1,0 +1,66 @@
+Terms of use
+Welcome to Group Planner!
+These Terms of Use (or Terms) govern your use of Group Planner (the App and the Service), except where we expressly state that separate terms (and not these) apply. When you create a Group Planner account or use Group Planner, you agree to these Terms.
+
+Developing features and technologies that help us improve the experience for our users
+Storing and analyzing usage data is key to Group Planner to understand how you use the App and how we might improve it for you. We use technologies such as crashlytics and analytics to keep a feature high and bug free app. You can learn more about how we use your data for this purpose in our Data Policy.
+
+Ensuring access to the Service
+To operate the Service, we may need to store and transfer data across our systems around the world, including outside of your country of residence. The use of this global infrastructure might be necessary and essential to provide the Service. 
+
+How we are funded
+Group Planner is currently funded by the team's own economic resources and the ads inside of the app. We don't sell your personal data to third parties in order to fund Service. The App is free to use.
+
+Your commitments
+In return for our commitment to provide the Service, we require you to make the below commitments to us.
+
+Who can use Group Planner?
+We want our Service to be as open and inclusive as possible, but we also want it to be safe, secure, and in accordance with the law. So, we need you to commit to a few restrictions in order to be part of the Group Planner community. 
+- You must be at least 13 years old. 
+- You must not be prohibited from receiving any aspect of our Service under applicable laws or engaging in payments related Services if you are on an applicable denied party listing. 
+- We must not have previously disabled your account for violation of law or any of our policies.
+
+How you cannot use Group Planner
+Providing a safe and open Service for a you and the people around you requires that we all do our part. 
+- You can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose. 
+- You can't violate (or help or encourage others to violate these Terms or any of our policies. 
+- You can't do anything to interfere with or impair the intended operation of the Service. This includes attempting to disrupt the Service's performance, performing cyberattacks on your or any other users' data or purposefully flooding any support or appeals channel, among anything else that we might consider harmful to Group Planner. This also includes impersonating the Service's team. 
+- You can't attempt to create accounts or access or collect information in unauthorized ways. This includes creating accounts or collecting information in an automated way without our express permission.
+- You can't sell, license, or purchase any account or data obtained from us or our Service. This includes attempts to buy, sell, or transfer any aspect of your account (including your username);solicit, collect, or use login credentials or badges of other users; or request or collect usernames, passwords, or misappropriate access tokens. 
+- You can't store someone else's private or confidential information without their explicit permission or do anything that violates someone else's rights. 
+- You can't modify, translate, create derivative works of, or reverse engineer our products or their components.
+
+Permissions you give us
+By agreeing to these terms, you give us a set of permissions that we need in order to run the Service. 
+- We do not claim ownership of your content, but you grant us a license to use it. Nothing is changing about your rights in your content. We do not claim ownership of your content that you post on or through the Service and you are free to share your content with anyone else, wherever you want. However, we need certain legal permissions from you (known as a license) to provide the Service. When you share or upload content that is covered by intellectual property rights (like photos or videos) on or in connection with our Service, you hereby grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). This license will end when your content is deleted from our systems. You can delete content individually or all at once by deleting your account. You can learn more about how we use your data in our Data Policy! 
+- You agree that we can download and install software updates to the Service in your device.
+
+Additional rights we retain
+- If you use content covered by intellectual property rights that we have and make available in our Service (for example, images, designs, videos, or sounds we provide that you add to content you create or share), we retain all rights to our content (but not yours). 
+- You can only use our intellectual property and trademarks or similar marks with our prior written permission. 
+- You must obtain written permission from us or under an open source license to modify, create derivative works of, decompile, or otherwise attempt to extract source code from us. 
+- We can change public data of your profile if we believe it doesn't comply with the terms.
+
+Content removal and disabling or terminating your Account
+- The content you upload to the service is yours. We do not claim ownership of it and are not responsible for any legal liability related to it. Uploading something illegal in your jurisdiction to your account is your sole responsibility. However, we hold the right to remove any content or information you upload to the Service if we believe that it violates these Terms of Use, our policies, or we are required to do so by law. We can refuse to provide or stop providing all or part of the Service to you immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies, or where we are required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. You can delete your account whenever you want to. The details of how account deletion works are outlined in the Privacy Policy. We hold the right to not delete your account upon your request in the scenarios where deletion would restrict our ability to: 
+- investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our products or systems); 
+- protect the safety and security of our products, systems, and users; 
+- comply with a legal obligation, such as the preservation of evidence; or 
+- comply with a request of a judicial or administrative authority, law enforcement or a government agency. If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but this section and the section below called Our Agreement and What Happens if We Disagree will still apply even after your account is terminated, disabled, or deleted.
+
+Some additional notes on the Terms and our agreement
+- If any aspect of this agreement is unenforceable, the rest will remain in effect.
+- Any amendment or waiver to our agreement must be in writing and signed by us. If we fail to enforce any aspect of our agreement, it will not be a waiver. 
+- We reserve all rights not expressly granted to you. 
+- We will use reasonable skill and care in providing our Service to you and in keeping a safe, secure, and error-free environment, but we cannot guarantee that our Service will always function without disruptions, delays, or imperfections. Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content posted by others that you may encounter on our Service; and events beyond our reasonable control. 
+- The above does not exclude or limit our liability for death, personal injury, or fraudulent misrepresentation caused by our negligence.
+
+Disputes
+If a claim or dispute arises out of or relates to your use of the Service as a consumer, both you and us agree that you may resolve your individual claim or dispute against us, and we may resolve our claim or dispute against you, in any competent court in the country of your main residence that has jurisdiction over your claim or dispute, and the laws of that country will apply without regard to conflict of law provisions.
+
+Unsolicited material
+We always appreciate feedback or other suggestions but may use them without any restrictions or obligation to compensate you for them and are under no obligation to keep them confidential.
+
+Updating the Terms
+We may change our Service and Policies, and we may need to make changes to these Terms so that they accurately reflect our Service and Policies. Unless otherwise required by law, we will notify you (for example, through our Service) whenever we make changes to these Terms and give you an opportunity to review them before you keep using the service (and therefore) accept them. 
+If you do not want to agree to these or any updated Terms, you can delete your account through the privacy setting within the App.eze Voorwaarden moeten aanpassen zodat ze onze Dienst en ons Beleid correct weergeven. Tenzij anders vereist door de wet, zullen wij u op de hoogte stellen (bijvoorbeeld via onze Service) wanneer wij wijzigingen aanbrengen in deze Voorwaarden en u de gelegenheid geven deze te bekijken voordat u de dienst blijft gebruiken (en dus) deze accepteert. \nAls u niet akkoord wilt gaan met deze of bijgewerkte Voorwaarden, kunt u uw account verwijderen via de privacy instelling in de App.\n",
