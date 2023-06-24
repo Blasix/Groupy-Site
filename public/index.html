@@ -7,35 +7,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
   <title>Blasix | Group Planner</title>
-  <script src="https://kit.fontawesome.com/b7b3b65ea8.js" crossorigin="anonymous"></script>
-  <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/output.css">
 </head>
 
-<body class="dark:bg-stone-950 dark:text-white mx-40 mt-12">
-  <nav class="flex justify-between ">
-    <div class="flex items-center justify-center gap-3">
-      <img src="./assets/plannerlogo.svg" alt="logo" class="w-20">
-      <h1 class="text-6xl">Group Planner</h1>
-    </div>
-    <a href="https://Blasix.com"
-      class="flex border-2 rounded-full p-3 h-full items-center justify-center bg-gradient-to-r from-cyan-500/30 to-blue-500/30 border-white/30 gap-2">
-      <img src="./assets/logo.svg" alt="mainlogo" class="w-14 h-14">
-      <h1 class="text-4xl text-white/80"> Back ></h1>
-    </a>
-  </nav>
+<body class="dark:bg-stone-950 dark:text-white overflow-hidden font-quicksand">
+  <div class="flex justify-center items-center sm:px-16 px-6">
+    <div class="xl:max-w-[1920px] w-full h-screen">
+      <nav class="flex justify-between w-full pt-10">
+        <div class="flex items-center justify-center gap-6">
+          <img src="./assets/plannerlogo.svg" alt="logo" class="w-20">
+          <h1 class="text-6xl font-bold">Group Planner</h1>
+        </div>
+        <a href="https://Blasix.com"
+          class="flex border-2 rounded-3xl p-3 h-full items-center justify-center bg-gradient-to-r from-cyan-500/10 to-blue-500/10 border-white/10 gap-2">
+          <img src="./assets/logo.svg" alt="mainlogo" class="w-14 h-14">
+          <h1 class="text-4xl dark:text-white/60"> Back ></h1>
+        </a>
+      </nav>
 
-  <div class="flex justify-center items-center gap-40">
-    <div class="text-center">
-      <h1 class="text-5xl">Download</h1>
-      <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
-      <h2 class="dark:text-white/60 text-3xl">The app to plan all your events</h2>
-      <a
-        href='https://play.google.com/store/apps/details?id=net.blasix.group_planner_app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
-          alt='Get it on Google Play'
-          src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="h-40" />
+      <div class="flex justify-around items-center w-full h-full font-bold">
+        <div class="text-center">
+          <h1 class="text-8xl">Download</h1>
+          <hr class="w-60 h-1 mx-auto my-4  border-0 rounded md:my-8 dark:bg-white/20">
+          <h2 class="dark:text-white/60 text-5xl">The app to plan <br> all your events</h2>
+          <a
+            href='https://play.google.com/store/apps/details?id=net.blasix.group_planner_app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+            <img alt='Get it on Google Play'
+              src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'
+              class="h-28 mx-auto mt-12" />
+          </a>
+        </div>
+        <img src="./assets/phone.png" alt="phone" class="self-end w-[700px]">
+      </div>
     </div>
-    <img src="./assets/phone.png" alt="phone">
   </div>
 </body>
 
